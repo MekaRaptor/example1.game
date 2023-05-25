@@ -1,3 +1,3 @@
-# example1.game
+# 2d platform game project
 platform 2d new
 a
